@@ -1,11 +1,23 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body{
-  background-color: green;
+
 }
 
 h1{
+  text-align: center;
   font-size: 60px;
+  margin: 20px auto;
 }
 
 h2{
   font-size: 35px;
+}
+
+.imagen{
+  display: block;
+  margin: 0 auto;
 }
